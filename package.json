@@ -1,0 +1,27 @@
+{
+  "name": "npm-nft-login",
+  "version": "1.0.0",
+  "description": "package to check if a certain wallet owns a NFT or not ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avirathtib/npm-nft-login.git"
+  },
+  "keywords": [
+    "NFT",
+    "ethereum",
+    "login"
+  ],
+  "author": "Avirath Tibrewala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avirathtib/npm-nft-login/issues"
+  },
+  "homepage": "https://github.com/avirathtib/npm-nft-login#readme",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.6"
+  }
+}
